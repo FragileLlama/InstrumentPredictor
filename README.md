@@ -30,7 +30,7 @@ Below are examples of the system successfully identifying a keyboard sample and 
 Open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/FragileLlama/audio-instrument-classification.git
+git clone https://github.com/FragileLlama/InstrumentPredictor.git
 ```
 
 #### 2. Navigate to the Project Directory
@@ -39,8 +39,8 @@ cd InstrumentPredictor
 ```
 
 #### 3. Download and Prepare the NSynth Dataset
-### 1. Download the NSynth Test Set from Google Research’s NSynth Dataset page.
-### 2. Extract the dataset into the project directory so that you have a folder named nsynth-test containing audio/ and examples.json.
+##### 1. Download the NSynth Test Set from Google Research’s NSynth Dataset page.
+##### 2. Extract the dataset into the project directory so that you have a folder named nsynth-test containing audio/ and examples.json.
 
 #### 4. Run the scripts:
 
