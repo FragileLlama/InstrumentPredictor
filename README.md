@@ -32,8 +32,26 @@ git clone https://github.com/FragileLlama/audio-instrument-classification.git
 
 #### 2. Navigate to the Project Directory
 ```bash
-cd audio-instrument-classification
+cd InstrumentPredictor
 ```
+
+#### 3. Download and Prepare the NSynth Dataset
+### 1. Download the NSynth Test Set from Google Research’s NSynth Dataset page.
+### 2. Extract the dataset into the project directory so that you have a folder named nsynth-test containing audio/ and examples.json.
+
+#### 4. Run the scripts:
+
+```bash
+python data_preparation.py
+python model_training.py
+streamlit run app.py
+```
+
+#### 5. Upload an Audio File
+Use the web interface to upload an MP3 or WAV file. The application will display the predicted primary instrument.
+
+
+
 
 
 
