@@ -10,6 +10,9 @@ The project involves several key steps:
 
 ### Examples
 Below are examples of the system successfully identifying a keyboard sample and a guitar sample.
+<img width="598" alt="keyboard_recognize" src="https://github.com/user-attachments/assets/5bded447-3de2-44bd-b39c-330c81b227fc">
+
+<img width="643" alt="guitar_recognized" src="https://github.com/user-attachments/assets/f3d23c99-5944-4d07-b737-6ce4c1752f00">
 
 ---
 
