@@ -27,4 +27,13 @@ Below are examples of the system successfully identifying a keyboard sample and 
 Open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/yourusername/audio-instrument-classification.git
+git clone https://github.com/FragileLlama/audio-instrument-classification.git
+```
+
+#### 2. Navigate to the Project Directory
+```bash
+cd audio-instrument-classification
+```
+
+
+
