@@ -39,8 +39,8 @@ cd InstrumentPredictor
 ```
 
 #### 3. Download and Prepare the NSynth Dataset
-##### 1. Download the NSynth Test Set from Google Research’s NSynth Dataset page.
-##### 2. Extract the dataset into the project directory so that you have a folder named nsynth-test containing audio/ and examples.json.
+##### Download the NSynth Test Set from Google Research’s NSynth Dataset page.
+##### Extract the dataset into the project directory so that you have a folder named nsynth-test containing audio/ and examples.json.
 
 #### 4. Run the scripts:
 
